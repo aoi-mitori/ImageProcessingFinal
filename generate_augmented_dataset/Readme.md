@@ -1,0 +1,2 @@
+- Put training images into /Train_Images folder
+- Put training labels into /Train_Annotations_Yolo folder
