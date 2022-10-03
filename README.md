@@ -5,7 +5,3 @@
 ![image info](images/standard.jpg)
 ![image info](images/data_augmentation.jpg)
 ![image info](images/geometric.jpg)
-
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/aoi-mitori/ImageProcessingFinal/images/precut.jpg>
-</p>
