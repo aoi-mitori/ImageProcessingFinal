@@ -7,5 +7,5 @@
 ![image info](images/geometric.jpg)
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/aoi-mitori/ImageProcessingFinal/tree/main/images/precut.jpg>
+    <img width="50%" src="https://github.com/aoi-mitori/ImageProcessingFinal/images/precut.jpg>
 </p>
